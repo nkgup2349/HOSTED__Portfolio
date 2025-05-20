@@ -88,10 +88,10 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Dusri Intership</h3>
-                                <span className="qualification__subtitle"> XYZ 2 Place</span>
+                                <h3 className="qualification__title">Teaching of ROS{Robot Operating Systeam]</h3>
+                                <span className="qualification__subtitle"> To the 1st Year Students</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i className="uil uil-calendar-alt"></i> Jan 2023 - Jan 2023
                                 </div>
                             </div>
 

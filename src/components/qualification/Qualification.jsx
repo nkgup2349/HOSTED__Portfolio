@@ -88,7 +88,7 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Teaching of ROS{Robot Operating Systeam]</h3>
+                                <h3 className="qualification__title">Teaching of ROS [Robot Operating System]</h3>
                                 <span className="qualification__subtitle"> To the 1st Year Students</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i> Jan 2023 - Jan 2023
